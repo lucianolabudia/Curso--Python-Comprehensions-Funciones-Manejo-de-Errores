@@ -15,6 +15,7 @@
 * Operaciones con conjuntos
 
 ### Comprehensions
+* List Comprehension
 
 ### Funciones
 
