@@ -16,6 +16,7 @@
 
 ### Comprehensions
 * List Comprehension
+* Dictionary Comprehension
 
 ### Funciones
 
