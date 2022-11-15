@@ -28,3 +28,4 @@ ages = [12, 56, 98]
 print(list(zip(names, ages)))
 
 new_dict = {name: age for (name, age) in zip(names, ages)}
+print(new_dict)

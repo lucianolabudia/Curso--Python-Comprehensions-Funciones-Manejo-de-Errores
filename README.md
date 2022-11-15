@@ -17,6 +17,7 @@
 ### Comprehensions
 * List Comprehension
 * Dictionary Comprehension
+* Dictionary Comprehension: condition
 
 ### Funciones
 
