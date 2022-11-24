@@ -24,6 +24,7 @@
 * Funciones
 * Funciones: return
 * Parámetros por defecto y múltiples returns
+* El scope
 
 ### Módulos
 
