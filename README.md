@@ -26,6 +26,7 @@
 * Parámetros por defecto y múltiples returns
 * El scope
 * Refactor game
+* Funciones anónimas: lambda
 
 ### Módulos
 
