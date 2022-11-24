@@ -18,8 +18,10 @@
 * List Comprehension
 * Dictionary Comprehension
 * Dictionary Comprehension: condition
+* Lists vs. Tuples vs. Sets
 
 ### Funciones
+* Funciones
 
 ### Módulos
 
