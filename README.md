@@ -22,6 +22,7 @@
 
 ### Funciones
 * Funciones
+* Funciones: return
 
 ### Módulos
 
