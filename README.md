@@ -30,6 +30,7 @@
 * Higher order function: una función dentro de otra función
 * Map
 * Map con diccionarios
+* Reto: map con inmutabilidad
 
 ### Módulos
 
