@@ -32,8 +32,10 @@
 * Map con diccionarios
 * Reto: map con inmutabilidad
 * Filter
+* Reduce
 
 ### Módulos
+* Módulos
 
 ### Manipulación de archivos y errores
 
