@@ -31,6 +31,7 @@
 * Map
 * Map con diccionarios
 * Reto: map con inmutabilidad
+* Filter
 
 ### Módulos
 
