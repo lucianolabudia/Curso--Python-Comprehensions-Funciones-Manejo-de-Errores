@@ -27,6 +27,7 @@
 * El scope
 * Refactor game
 * Funciones anónimas: lambda
+* Higher order function: una función dentro de otra función
 
 ### Módulos
 
