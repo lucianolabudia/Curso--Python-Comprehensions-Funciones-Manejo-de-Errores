@@ -38,6 +38,7 @@
 * Módulos
 * Mis propios módulos
 * Módulos como scripts: __name__ y __main__
+* Paquetes
 
 ### Manipulación de archivos y errores
 
