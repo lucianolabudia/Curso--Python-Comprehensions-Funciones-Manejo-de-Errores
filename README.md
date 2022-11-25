@@ -41,5 +41,6 @@
 * Paquetes
 
 ### Manipulación de archivos y errores
+* Iterables
 
 ### Gráficas en Python
