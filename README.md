@@ -49,3 +49,4 @@
 * Leer un CSV
 
 ### Gráficas en Python
+* Creando una gráfica
