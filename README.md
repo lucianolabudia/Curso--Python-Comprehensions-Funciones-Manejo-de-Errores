@@ -46,5 +46,6 @@
 * Manejo de excepciones
 * Leer un archivo de texto
 * Escribir en un archivo
+* Leer un CSV
 
 ### Gráficas en Python
