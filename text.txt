@@ -1,9 +1,3 @@
-line 1
-line 2
-line 3
-luciano
-bla bla bla
-hola
-a
-s
-d
+nuevas cosas en este archivo
+otra linea
+otra linea mas

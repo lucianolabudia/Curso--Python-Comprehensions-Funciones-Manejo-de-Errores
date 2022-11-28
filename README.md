@@ -45,5 +45,6 @@
 * Errores en Python
 * Manejo de excepciones
 * Leer un archivo de texto
+* Escribir en un archivo
 
 ### Gráficas en Python
