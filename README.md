@@ -43,5 +43,6 @@
 ### Manipulación de archivos y errores
 * Iterables
 * Errores en Python
+* Manejo de excepciones
 
 ### Gráficas en Python
