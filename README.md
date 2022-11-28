@@ -44,5 +44,6 @@
 * Iterables
 * Errores en Python
 * Manejo de excepciones
+* Leer un archivo de texto
 
 ### Gráficas en Python
