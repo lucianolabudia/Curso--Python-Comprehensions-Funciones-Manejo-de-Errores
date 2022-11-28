@@ -51,3 +51,4 @@
 ### Gráficas en Python
 * Creando una gráfica
 * Reto: graficando la población de un país
+* Reto: graficando la población mundial
